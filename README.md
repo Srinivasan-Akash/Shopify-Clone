@@ -40,6 +40,7 @@ Go to the project directory
 - Beautifull UI/UX Design
 - Clone Website
 - Hosted on Netlify and set up in production
+- Fully Responsive in all screens
 
 ## 🤔 What i have learnt By working on this project
 1. Got a good feel of tailwind utility first framework and mobile first design
