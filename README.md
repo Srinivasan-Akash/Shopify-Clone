@@ -10,7 +10,7 @@ Hope you like my project !!
 
 ## 🚩 Demo
 
-
+https://bucolic-bombolone-80793c.netlify.app/
 
 ## Run Locally
 
