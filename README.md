@@ -10,7 +10,6 @@ Hope you like my project !!
 
 ## 🚩 Demo
 
-https://user-images.githubusercontent.com/108281031/185423127-e017592c-995b-4a11-a955-9dc7aca29022.mp4
 
 
 ## Run Locally
@@ -18,13 +17,13 @@ https://user-images.githubusercontent.com/108281031/185423127-e017592c-995b-4a11
 Clone the project
 
 ```bash
-  git clone https://github.com/Srinivasan-Akash/Rode-Clone.git
+  git clone https://github.com/Srinivasan-Akash/Shopify-Clone.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Rode-Clone
+  cd Shopify-Clone
 ```
 ## ✍️ Author and 📞 Contact
 - [Akash Srinivasan](https://www.github.com/octokatherine)
